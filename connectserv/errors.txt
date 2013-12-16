@@ -1,0 +1,12 @@
+events.c: In function 'loadCoreModule':
+events.c:274: warning: ISO C forbids assignment between function pointer and 'void *'
+events.c: In function 'loadModule':
+events.c:767: warning: ISO C forbids assignment between function pointer and 'void *'
+events.c: In function 'unloadModule':
+events.c:844: warning: ISO C forbids assignment between function pointer and 'void *'
+events.c: In function 'modules_unload_all':
+events.c:4449: warning: ISO C forbids assignment between function pointer and 'void *'
+main.c: In function 'main':
+main.c:580: warning: cast from function call of type 'char *' to non-matching type 'long int'
+connectserv.c: In function 'my_add_languages':
+connectserv.c:537: warning: passing argument 3 of 'moduleInsertLanguage' from incompatible pointer type
